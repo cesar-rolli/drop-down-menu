@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+# VIDEOZINHO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Este README está traduzido para __português__!
 
-## Available Scripts
 
-In the project directory, you can run:
+## About
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Why? 🚀
+The purpose of this project is create a Drop down menu to select people inside a list, but show profile photo after selected
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tech Stack 🛠️
+- React with TypeScript
+- Styled-Components
 
-### `yarn test`
+## How to download? 🗂️
+```javascript
+	# Clone the repository
+	$ git clone https://github.com/cesar-rolli/dropdownmenu.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+	# Enter directory
+	$ cd dropdownmenu
 
-### `yarn build`
+	# Install dependencies
+	$ yarn install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+	# Start the project
+	$ yarn start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Sobre
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Por que? 🚀
+As bibliotecas que encontrei, como o Material-UI, não resolviam meu problema como eu gostaria. Então decidi criar um Drop down menu para selecionar pessoas numa lista, mas aparecer somente a foto de perfil depois de selecionado.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tecnologias 🛠️
+- React com TypeScript
+- Styled-Components
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Como baixar? 🗂️
+```javascript
+	# Clone o repositório
+	$ git clone https://github.com/cesar-rolli/dropdownmenu.git
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+	# Entre no diretório
+	$ cd dropdownmenu
 
-## Learn More
+	# Instale as dependências
+	$ yarn install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+	# Inicie o projeto
+	$ yarn start
+```
