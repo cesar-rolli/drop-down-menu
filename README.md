@@ -1,6 +1,6 @@
 # VIDEOZINHO
 
-<h2 align='center'> Este README está traduzido para __português__!</h2>
+<h2 align='center'> Este README está traduzido para <span>português</span>!</h2>
 
 
 ## About
